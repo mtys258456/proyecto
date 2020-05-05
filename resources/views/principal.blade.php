@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Sistema Ventas Laravel Vue Js- IncanatoIT">
-    <meta name="author" content="Incanatoit.com">
-    <meta name="keyword" content="Sistema ventas Laravel Vue Js, Sistema compras Laravel Vue Js">
+    <meta name="description" content="Sistema de Control de Becas Academicas - Ingenieria de Sistemas U.A.T.F.">
+    <meta name="author" content="Kevin Ramiro Erquicia Burgoa">
+    <meta name="keyword" content="Sistema de Control de Becas Academicas - Ingenieria de Sistemas U.A.T.F.">
     <link rel="shortcut icon" href="img/favicon.png">
-    <title>Sistema Ventas - IncanatoIT</title>
+    <title>Sistema de control de Becas - Ing. de Sistemas U.A.T.F.</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Icons -->
     <link href="css/plantilla.css" rel="stylesheet">
@@ -78,8 +78,8 @@
     </div>   
     </div>
     <footer class="app-footer">
-        <span><a href="http://www.incanatoit.com/">IncanatoIT</a> &copy; 2017</span>
-        <span class="ml-auto">Desarrollado por <a href="http://www.incanatoit.com/">IncanatoIT</a></span>
+        <span><a href="https://www.facebook.com/groups/570997296338166/?epa=SEARCH_BOX">Ingenieria de Sistemas</a> &copy; 2020</span>
+        <span class="ml-auto">Desarrollado por <a href="https://www.facebook.com/kevin.erquiciaburgoa">Kevin Ramiro Erquicia Burgoa</a></span>
     </footer>
     
 
